@@ -1,0 +1,13 @@
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.csprojAssemblyReference.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.AssemblyInfoInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.AssemblyInfo.cs
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts.deps.json
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts.runtimeconfig.json
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts.runtimeconfig.dev.json
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/bin/Debug/netcoreapp3.1/OCPProducts.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/OCPProducts/obj/Debug/netcoreapp3.1/OCPProducts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.csprojAssemblyReference.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.AssemblyInfoInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.AssemblyInfo.cs
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype.deps.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype.runtimeconfig.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype.runtimeconfig.dev.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/bin/Debug/netcoreapp3.1/Prototype.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/Prototype/obj/Debug/netcoreapp3.1/Prototype.genruntimeconfig.cache

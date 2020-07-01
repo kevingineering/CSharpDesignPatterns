@@ -1,0 +1,13 @@
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.csprojAssemblyReference.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.AssemblyInfoInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.AssemblyInfo.cs
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy.deps.json
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy.runtimeconfig.json
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy.runtimeconfig.dev.json
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/bin/Debug/netcoreapp3.1/DIPGenealogy.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/DIPGenealogy/obj/Debug/netcoreapp3.1/DIPGenealogy.genruntimeconfig.cache

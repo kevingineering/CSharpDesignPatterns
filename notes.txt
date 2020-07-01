@@ -1,0 +1,165 @@
+Design pattern - common architectural approach - universally relevant
+
+Some languages have internalized design patterns, libraries provide patterns as well
+
+
+SOLID PRINCIPLES
+
+  Single Resposibility Principle
+
+    Every class should have just one reason to change 
+    Separation of concerns - different classes handle different, independent tasks
+
+  Open-Closed Principle
+
+    Parts of a system must be open for extension (in order to extend functionality) but closed for modification - no one should go back and edit code that is already in production
+
+  Liskov Substitution Principle
+
+    You should be able to substitute a base type for a subtype
+
+  Interface Segregation Principle
+
+    Interfaces should be segregated so that no one who implements your interface is forced to implement functions they don't need 
+
+  Dependency Inversion Principle
+
+    High level parts of the system should not depend on low level parts of the system directly but should instead depend on an abstraction
+
+
+GAMMA CATEGORIZATION 
+
+  Creational Patterns
+
+    Deal with creation of objects
+    Explicit (constructor) or implicit (DI, reflection, etc)
+    Wholesale (single statement) or piecewise (step-by-step)
+
+  Structural Patterns
+
+    Concerned with structure 
+    Many patterns are wrappers that mimic the underlying class's interface
+    Stress the importance of good API design
+
+  Behavioral Patterns
+
+    No central theme, patterns all are unique
+
+
+CREATIONAL PATTERNS
+
+  Builder 
+
+    Purpose: For piecewise object construction - it can become complicated, so provide a builder (an API) for doing in succintly
+    
+    Piecewise object creation makes it easier to created complicated objects that cannot be built with a single constructor call - too many arguments in a constructor is bad too, preferable to opt for piecewise
+
+    Different than factory pattern because it does things piecewise as compared to all at once
+    
+    Builder can be:
+      implemented with constructor or static function
+      fluent (return this)
+      faceted - built with different builders working in tandem via a base class
+
+  Factory
+
+    Purpose: For wholesale creation of objects when object creation becomes too convoluted for a constructor
+
+    Used when a class cannot anticipate the type of objects it needs to create beforehand, when a class requires its subclasses to specify the objects it creates, or when you want to localize the logic to create a complex object
+
+    Constructors are limited:
+      Cannot overload an argument with the same argument types (think point(x,y) and point(rho, theta))
+      Name is mandated by name of containing class
+      Cannot be async 
+      Trying to account for these shortfalls with parameters can turn into 'optional parameter hell'
+
+    Can create objects using separate function (factory method - arguably violates SRP), separate class (factory), or with hierarchy of factories (abstract factory)
+
+    Different than builder pattern because it does things all at once as compared to piecewise
+
+  Prototype 
+  
+    Purpose: Complicated objects aren't designed from scratch, you use an existing design and make variations of it - must deep copy 
+
+    Protoype - a partially or fully initialized object you copy and make use of
+
+  Singleton
+
+    Purpose: it sometimes makes sense to only have one item in the system - e.g. database repository or object factory
+
+    Singleton - a component which is instantiated only once
+
+    Can prevent anyone creating additional copies and can provide thread safety to prevent something executing twice
+
+STRUCTURAL PATTERNS
+
+  Adapter 
+
+  Bridge
+
+  Composite
+
+  Decorator
+
+  Facade
+
+  Flyweight
+
+  Proxy
+
+
+BEHAVIORAL PATTERNS
+
+  Chain of Resposibility
+
+  Command
+
+  Interpreter
+
+  Mediator
+
+  Memento
+
+  Observer
+
+  State
+
+  Strategy
+
+  Template Method
+
+  Visitor
+
+  
+
+Additional Concepts 
+
+  Fluent API - allows method chaining, defined on return value of called method (each method returns this), so is self-referential - e.g. Linq temp.Where().OrderBy().Select()
+  
+  Recursive generic
+
+
+Class Modifiers 
+
+  sealed - cannot be inherited, can be instantiated
+
+  static - cannot be inherited or instantiated - to access use classname.method
+
+  abstract - can be inherited, cannot be instantiated
+
+  virtual - allows a class to be overridden
+
+
+Access Modifiers 
+
+  public - can be accessed by any code in the same assembly or another assembly
+
+  internal - can be accessed only by code in the same assembly
+
+  protected - can be accessed only by code in the same class or in a derived class
+
+  private - can be accessed only by code in the same class or struct
+
+  protected internal - can be accessed by any code in the assembly in which it is declared or from within a derived class in another assembly 
+
+  private protected - can be accessed only within its declaring assembly by code in the same class or in a type that is derived from that class

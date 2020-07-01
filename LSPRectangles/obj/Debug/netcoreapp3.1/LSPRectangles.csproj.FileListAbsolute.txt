@@ -1,0 +1,13 @@
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles.deps.json
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles.runtimeconfig.json
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles.runtimeconfig.dev.json
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/bin/Debug/netcoreapp3.1/LSPRectangles.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.csprojAssemblyReference.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.AssemblyInfoInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.AssemblyInfo.cs
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/LSPRectangles/obj/Debug/netcoreapp3.1/LSPRectangles.genruntimeconfig.cache

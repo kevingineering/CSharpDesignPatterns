@@ -1,0 +1,13 @@
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories.deps.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories.runtimeconfig.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories.runtimeconfig.dev.json
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/bin/Debug/netcoreapp3.1/Factories.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.csprojAssemblyReference.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.AssemblyInfoInputs.cache
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.AssemblyInfo.cs
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.dll
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.pdb
+/home/kevin/Documents/c_sharp_work/design_patterns/Factories/obj/Debug/netcoreapp3.1/Factories.genruntimeconfig.cache
